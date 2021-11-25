@@ -3,9 +3,9 @@
 #### Table of Contents
 
 - [About me](#About-me)
-- [Technologies/Tools](#Technologies/Tools)
-- [Open source job statistics](#Open-source-job-statistics)
-- [How to reach me](#How-to-reach-me)
+- [🔧 Technologies/Tools](#🔧-Technologies/Tools)
+- [📈 Open source job statistics](#📈-Open-source-job-statistics)
+- [📫 How to reach me](#📫-How-to-reach-me)
 
 <p align=center>
     <a href="https://github.com/tircnais">
