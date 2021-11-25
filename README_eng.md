@@ -91,9 +91,9 @@
 
 ## 📈 Open source job statistics
 
-![Estadísticas de Cristian en GitHub](https://github-readme-stats.vercel.app/api?username=tircnais&theme=vue&show_icons=true)
+![Cristian Aguirre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tircnais&theme=vue&show_icons=true)
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tircnais&hide=css,pug&langs_count=10&theme=default)](https://github.com/tircnais/github-readme-stats)
+[![Most Used Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=tircnais&hide=css,pug&langs_count=10&theme=default)](https://github.com/tircnais/github-readme-stats)
 
 </hr>
   
