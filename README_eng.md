@@ -101,14 +101,10 @@
 
 [![Linkedin: Cristian](https://img.shields.io/badge/-Cristian%20Aguirre-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/cristian-aguirre-minga/)](https://www.linkedin.com/in/cristian-aguirre-minga/)
 [![GitHub Cristian](https://img.shields.io/github/followers/tircnais?label=followmee&style=social)](https://github.com/tircnais)
-[![Gmail Cristian](https://img.shields.io/badge/-Cristian_Aguirre-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tircnais@gmail.com)](mailto:tircnais@gmail.com)
+[![Gmail Cristian](https://img.shields.io/badge/-Cristian_Aguirre-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tircnais@gmail.com)](mailto:tircnais@gmail.com?subject=Contact%20us&body=I'm%20interested%20in%20your%20work,%20contact%20us.)
 
 <!--
 **Tircnais/Tircnais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-&count_private=true
-conteo de repo privados
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 

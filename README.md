@@ -101,14 +101,22 @@
 
 [![Linkedin: Cristian](https://img.shields.io/badge/-Cristian%20Aguirre-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/cristian-aguirre-minga/)](https://www.linkedin.com/in/cristian-aguirre-minga/)
 [![GitHub Cristian](https://img.shields.io/github/followers/tircnais?label=Sigueme&style=social)](https://github.com/tircnais)
-[![Gmail Cristian](https://img.shields.io/badge/-Cristian_Aguirre-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tircnais@gmail.com)](mailto:tircnais@gmail.com)
+[![Gmail Cristian](https://img.shields.io/badge/-Cristian_Aguirre-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tircnais@gmail.com)](mailto:tircnais@gmail.com?subject=Comunicate%20con%20nosotros&body=Me%20interesa%20su%20trabajo,%20contactenos.)
 
 <!--
 **Tircnais/Tircnais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 &count_private=true
 conteo de repo privados
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+
+[![Most Used Lenguages](https://github-readme-streak-stats.herokuapp.com/?user=tircnais)](https://github-readme-streak-stats.herokuapp.com/?user=tircnais)
+
+[![Telegram Cristian](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VagoYConGanas)
+
 
 Here are some ideas to get you started:
 
