@@ -3,9 +3,9 @@
 #### Tabla de Contenidos
 
 - [Sobre mi](#Sobre-mi)
-- [🔧 Tecnologías/Herramientas](#🔧-Tecnologías/Herramientas)
-- [📈 Estadísticas de trabajo de código abierto](#📈-Estadísticas-de-trabajo-de-código-abierto)
-- [📫 Cómo comunicarse conmigo](#📫-Cómo-comunicarse-conmigo)
+- [Tecnologías/Herramientas](#-Tecnologíasherramientas)
+- [Estadísticas de trabajo de código abierto](#-Estadísticas-de-trabajo-de-código-abierto)
+- [Cómo comunicarse conmigo](#-Cómo-comunicarse-conmigo)
 
 <p align=center>
     <a href="https://github.com/tircnais">
