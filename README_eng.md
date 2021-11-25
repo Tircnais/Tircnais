@@ -1,11 +1,11 @@
-# Hola 👋 soy Cristian Aguirre
+# Hi 👋 I'm Cristian Aguirre
 
-#### Tabla de Contenidos
+#### Table of Contents
 
-- [Sobre mi](#Sobre-mi)
-- [Tecnologías/Herramientas](#Tecnologías/Herramientas)
-- [Estadísticas de trabajo de código abierto](#Estadísticas-de-trabajo-de-código-abierto)
-- [Cómo comunicarse conmigo](#Cómo-comunicarse-conmigo)
+- [About me](#About-me)
+- [Technologies/Tools](#Technologies/Tools)
+- [Open source job statistics](#Open-source-job-statistics)
+- [How to reach me](#How-to-reach-me)
 
 <p align=center>
     <a href="https://github.com/tircnais">
@@ -36,19 +36,19 @@
     </tr>
 </table>
 
-## **Sobre mi**
+## **About me**
 
-😃 Soy Ingeniero en Sistemas y Computación, me interesa el desarrollo web y las app offline.
+😃 I'm a Computer and Systems Engineer, I'm interested in web development and offline apps.
 
-🔭 Actualmente estoy trabajando como freelancer creando proyectos personales. Me gusta la programación **backend**, el diseño no es mi fuerte.
+🔭 I'm currently working as a freelancer creating personal projects. I like **backend** programming, design is not my strong suit.
 
-🌱 Actualmente estoy aprendiendo **Angular**, **Ionic Framework**, **Power BI** y **r-language**.
+🌱 I'm currently learning **Angular**, **Ionic Framework**, **Power BI**, and **r-language**.
 
-⚡ Dato curioso me gusta las frutas 🍏🍉 no como dulces 🍫🍬
+⚡ Fun fact I like fruits 🍏🍉 I don't eat sweets 🍫🍬
 
 </hr>
 
-## 🔧 Tecnologías/Herramientas
+## 🔧 Technologies/Tools
 
 <!--&width=50-->
 
@@ -77,7 +77,7 @@
 ![IONIC_Framwork](https://img.shields.io/badge/Code-IONIC_Framwork-informational?style=flat&logo=Ionic&logoColor=white&color=2bbc8a)
 ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 
-### Trabajando actualmente con
+### Currently working with
 
 ![Beautifulsoup_4](https://img.shields.io/badge/Code-Beautifulsoup_4-informational?style=flat&logo=beautifulsoup&logoColor=white&color=2bbc8a)
 
@@ -89,18 +89,18 @@
 
 </hr>
 
-## 📈 Estadísticas de trabajo de código abierto
+## 📈 Open source job statistics
 
-![Estadísticas de Cristian en GitHub](https://github-readme-stats.vercel.app/api?username=tircnais&custom_title=Estadísticas%20en%20Github%20de%20Cristian&theme=vue&show_icons=true)
+![Estadísticas de Cristian en GitHub](https://github-readme-stats.vercel.app/api?username=tircnais&theme=vue&show_icons=true)
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tircnais&custom_title=Lenguajes%20más%20utilizados&hide=css,pug&langs_count=10&theme=default)](https://github.com/tircnais/github-readme-stats)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tircnais&hide=css,pug&langs_count=10&theme=default)](https://github.com/tircnais/github-readme-stats)
 
 </hr>
   
-## 📫 Cómo comunicarse conmigo
+## 📫 How to reach me
 
 [![Linkedin: Cristian](https://img.shields.io/badge/-Cristian%20Aguirre-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/cristian-aguirre-minga/)](https://www.linkedin.com/in/cristian-aguirre-minga/)
-[![GitHub Cristian](https://img.shields.io/github/followers/tircnais?label=Sigueme&style=social)](https://github.com/tircnais)
+[![GitHub Cristian](https://img.shields.io/github/followers/tircnais?label=followmee&style=social)](https://github.com/tircnais)
 [![Gmail Cristian](https://img.shields.io/badge/-Cristian_Aguirre-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tircnais@gmail.com)](mailto:tircnais@gmail.com)
 
 <!--
