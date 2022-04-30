@@ -19,6 +19,8 @@
     </a>
 </p>
 
+## **Sobre mi**
+
 <table align="right">
     <tr>
         <td>
@@ -35,8 +37,6 @@
         </td>
     </tr>
 </table>
-
-## **Sobre mi**
 
 😃 Soy Ingeniero en Sistemas y Computación, me interesa el desarrollo web y las app offline.
 
