@@ -79,13 +79,8 @@
 
 ### Currently working with
 
-![Beautifulsoup_4](https://img.shields.io/badge/Code-Beautifulsoup_4-informational?style=flat&logo=beautifulsoup&logoColor=white&color=2bbc8a)
-
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django Logo" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="r-lang Logo" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/github.svg" alt="github Logo" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual-studio-code-1 Logo" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" alt="datagrip-icon Logo" width="30" height="30"/>
+| ![Beautifulsoup_4](https://img.shields.io/badge/Code-Beautifulsoup_4-informational?style=flat&logo=beautifulsoup&logoColor=white&color=2bbc8a) | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django Logo" width="30" height="30"/> | <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="r-lang Logo" width="30" height="30"/> | <img src="https://cdn.worldvectorlogo.com/logos/github.svg" alt="github Logo" width="30" height="30"/> | <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual-studio-code-1 Logo" width="30" height="30"/> | <img src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" alt="datagrip-icon Logo" width="30" height="30"/>
+|---|---|---|---|---|---|
 
 </hr>
 
